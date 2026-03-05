@@ -1,0 +1,31 @@
+# Facilitando com Python
+
+Projeto de automação desenvolvido em Python para cadastrar produtos automaticamente em um sistema web.
+
+## Tecnologias utilizadas
+
+- Python
+- PyAutoGUI
+- Pandas
+
+## Funcionalidades
+
+O robô realiza automaticamente:
+
+1. Abertura do navegador
+2. Acesso ao sistema
+3. Login automático
+4. Leitura de uma base de dados CSV
+5. Cadastro automático de produtos
+
+## Estrutura do projeto
+
+facilitando-automacao-python
+
+projeto.py → código da automação  
+produtos.csv → base de dados dos produtos  
+README.md → documentação do projeto
+
+## Objetivo
+
+Projeto desenvolvido para prática de automação de tarefas utilizando Python.
