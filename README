@@ -1,5 +1,11 @@
 # Facilitando com Python
 
+## Demonstração da automação
+
+Abaixo está uma demonstração do robô realizando o cadastro automático de produtos no sistema.
+
+![Demonstração da automação](demo-automacao.gif)
+
 Projeto de automação desenvolvido em Python para cadastrar produtos automaticamente em um sistema web.
 
 ## Tecnologias utilizadas
