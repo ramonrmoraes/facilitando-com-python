@@ -4,7 +4,7 @@
 
 Abaixo está uma demonstração do robô realizando o cadastro automático de produtos no sistema.
 
-<img src="demo-automacao.gif" width="800">
+![Demonstração da automação](demo-automacao.gif)
 
 Projeto de automação desenvolvido em Python para cadastrar produtos automaticamente em um sistema web.
 
